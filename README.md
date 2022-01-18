@@ -1,5 +1,5 @@
 
-##  Student Database Management System Python
+##  Student Database Management System Using Python
 
  ![Logo](https://raw.githubusercontent.com/pkiran1017/student-management-system-python/master/Screenshots/Main_Screen.jpg)
 
